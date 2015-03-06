@@ -10,7 +10,7 @@
 
 * Read Odersky Chapter 3, 4, and 5
 
-** Resources **
+**Resources**
 
 * [Scala API][scala-api]
 

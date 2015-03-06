@@ -1,5 +1,9 @@
 # Week 02: Principles of Good Programming
 
+*To get access to this material [download][zip] the zip archive.*
+
+[zip]: https://github.com/umass-cs-220/week-02-principles-of-good-programming/archive/master.zip
+
 **Objectives:**
 
 * To understand and apply principles of good programming.
